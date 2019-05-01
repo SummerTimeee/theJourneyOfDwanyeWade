@@ -348,4 +348,38 @@ nav ul li div {
     margin-right: 10%;
     font-size: 44px;
     text-align: center;
+    width: 100%;
 }
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-instagram {
+      background: orange;
+      color: white;
+  }
+  .fa-youtube {
+      background: red;
+      color: white;
+  }
+  .fa-weibo {
+      background: rgb(173, 39, 106);
+      color: white;
+  }
+  .fa-snapchat {
+      background: rgb(251, 255, 0);
+      color: white;
+  }
+  .fa-globe-americas {
+      background: greenyellow;
+      color: white;
+  }
+  /* Style all font awesome icons */
+  
