@@ -57,7 +57,7 @@ nav ul li {
     position: relative;
     width: 70px;
     cursor: pointer;
-    background: crimson;
+    background: rgb(150, 17, 43);
     text-transform: uppercase;
     transition: all .4s ease-out;
 }
@@ -65,7 +65,7 @@ nav ul li {
 nav ul li:after {
     position: absolute;
     background: white;
-    color: crimson;
+    color: rgb(150, 17, 43);
     top: 0;
     left: 70px;
     width: 70px;
@@ -87,7 +87,7 @@ nav ul li:nth-child(2):after {
 }
 
 nav ul li:nth-child(3):after {
-    content: "Work";
+    content: "Blog";
     line-height: 85px;
 }
 
@@ -133,7 +133,7 @@ nav ul li div {
     height: 0;
     border-style: solid;
     border-width: 0 17px 12px 17px;
-    border-color: transparent transparent crimson transparent;
+    border-color: transparent transparent rgb(150, 17, 43) transparent;
 }
 
 /*white triangle over red triangle*/
@@ -162,7 +162,7 @@ nav ul li div {
 
 .front:after {
     position: absolute;
-    background: crimson;
+    background: rgb(150, 17, 43);
     width: 11px;
     height: 13px;
     bottom: 0;
@@ -198,7 +198,7 @@ nav ul li div {
     position: absolute;
     top: 10px;
     left: 5px;
-    background: crimson;
+    background: rgb(150, 17, 43);
 }
 
 /*right eye*/
@@ -210,13 +210,13 @@ nav ul li div {
     position: absolute;
     top: 0;
     left: 14px;
-    background: crimson;
+    background: rgb(150, 17, 43);
 }
 
 .beard {
     width: 32px;
     height: 17px;
-    background: crimson;
+    background: rgb(150, 17, 43);
     border: 2px solid white;
     position: absolute;
     bottom: 0;
@@ -233,8 +233,8 @@ nav ul li div {
     background: white;
     width: 6px;
     height: 4px;
-    border-left: 1px solid crimson;
-    border-right: 1px solid crimson;
+    border-left: 1px solid rgb(150, 17, 43);
+    border-right: 1px solid rgb(150, 17, 43);
 }
 
 /*//work//*/
@@ -256,7 +256,7 @@ nav ul li div {
     width: 25px;
     height: 29px;
     background: white;
-    border-top: 4px solid crimson;
+    border-top: 4px solid rgb(150, 17, 43);
 }
 
 .lines {
@@ -264,7 +264,7 @@ nav ul li div {
     top: 36px;
     left: 5px;
     width: 11px;
-    box-shadow: 0 0 0 1px crimson;
+    box-shadow: 0 0 0 1px rgb(150, 17, 43);
 }
 
 .lines:after {
@@ -272,7 +272,7 @@ nav ul li div {
     top: 4px;
     left: 3px;
     width: 14px;
-    box-shadow: 0 0 0 1px crimson;
+    box-shadow: 0 0 0 1px rgb(150, 17, 43);
 }
 
 .lines:nth-child(2) {
@@ -319,7 +319,7 @@ nav ul li div {
     transform: rotate(180deg);
     border-style: solid;
     border-width: 0 16px 11px 16px;
-    border-color: transparent transparent crimson transparent;
+    border-color: transparent transparent rgb(150, 17, 43)transparent;
 }
 
 .mail-top:after {
@@ -339,9 +339,15 @@ nav ul li div {
     background: url(https://2.bp.blogspot.com/-QbWUhjjb_Wg/XBYgtX9S-sI/AAAAAAAAAkk/At_kWRFe4ooFJcFQKfgoeT05sFVBgWv7ACLcBGAs/s1600/wade.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    width: 1200px;
     height: 1200px;
     margin-top: 10%;
+}
+
+.footer {
+    color: white;
+    margin-right: 10%;
+    font-size: 44px;
+    text-align: center;
 }
 
 /*# sourceMappingURL=/home.871e090d.css.map */
