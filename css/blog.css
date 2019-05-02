@@ -103,12 +103,7 @@ h4 {
     border: 2px solid #dfdfdf;
 }
 
-#espn-img {
-    background: no-repeat;
-    background-position: center;
-    display: block;
-    position: relative;
-}
+
 
 .equal-height-container {
     max-width: 900px;
