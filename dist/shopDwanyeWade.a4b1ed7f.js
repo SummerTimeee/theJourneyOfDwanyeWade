@@ -184,7 +184,7 @@ function reloadCSS() {
 }
 
 module.exports = reloadCSS;
-},{"./bundle-url":"../../.npm/_npx/19704/lib/node_modules/parcel/src/builtins/bundle-url.js"}],"css/home.css":[function(require,module,exports) {
+},{"./bundle-url":"../../.npm/_npx/19704/lib/node_modules/parcel/src/builtins/bundle-url.js"}],"css/shopDwanyeWade.css":[function(require,module,exports) {
 var reloadCSS = require('_css_loader');
 
 module.hot.dispose(reloadCSS);
@@ -393,4 +393,4 @@ function hmrAcceptRun(bundle, id) {
   }
 }
 },{}]},{},["../../.npm/_npx/19704/lib/node_modules/parcel/src/builtins/hmr-runtime.js"], null)
-//# sourceMappingURL=/home.871e090d.js.map
+//# sourceMappingURL=/shopDwanyeWade.a4b1ed7f.js.map

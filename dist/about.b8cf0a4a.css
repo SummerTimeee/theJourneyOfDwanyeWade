@@ -141,7 +141,7 @@ img {
 }
 
 .centered {
-    background-color: rgba(0,0,0, .6);
+    background-color: rgba(0, 0, 0, .6);
     padding: 30px 27px 130px;
     top: 50%;
     left: 50%;
@@ -152,9 +152,8 @@ img {
     position: relative;
     text-align: center;
     color: white;
-    font-size:32px;
+    font-size: 32px;
     font-weight: 500;
-   
 }
 
 /*# sourceMappingURL=/about.b8cf0a4a.css.map */

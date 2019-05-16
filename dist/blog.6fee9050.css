@@ -35,6 +35,7 @@ h1 {
     animation-name: patients;
     animation-duration: 3s infinite;
 }
+
 @-webkit-keyframes patients {
     from {
         background-color: rgb(15, 38, 109);
@@ -103,8 +104,6 @@ h4 {
     border: 2px solid #dfdfdf;
 }
 
-
-
 .equal-height-container {
     max-width: 900px;
     margin: 0 auto;
@@ -165,24 +164,24 @@ h2 {
 .second-b {
     background-color: white;
     flex: 2;
-    border:1px solid #b3b3b3;
-    height:200px;
+    border: 1px solid #b3b3b3;
+    height: 200px;
     padding: 0 3px;
-    
-  
 }
-h3{
+
+h3 {
     margin-top: -10px;
     margin-left: 155px;
     background: white;
     margin-right: 155px;
 }
+
 #tags {
     color: darkgrey;
     font-size: 2em;
 }
-.img{
-    
+
+.img {
     width: 100%;
 }
 
