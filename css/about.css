@@ -33,6 +33,14 @@ button {
     margin-left: 200px;
 }
 
+h2 {
+    padding-bottom: 80px;
+    text-align: center;
+    padding: 16px 20px 124px;
+    background: #222;
+    font: 3em;
+}
+
 * {
     box-sizing: border-box;
 }
@@ -120,7 +128,6 @@ img {
 .column {
     float: left;
     width: 16.66%;
-    
 }
 
 /* Add a transparency effect for thumnbail images */
@@ -131,4 +138,21 @@ img {
 
 .active, .demo:hover {
     opacity: 1;
+}
+
+.centered {
+    background-color: rgba(0,0,0, .6);
+    padding: 30px 27px 130px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -173%);
+}
+
+.container-two {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size:32px;
+    font-weight: 500;
+   
 }
